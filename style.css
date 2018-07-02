@@ -1,0 +1,13 @@
+table {
+  margin: 0 auto;
+}
+
+.grid td {
+  width: 1em;
+  height: 1em;
+  background-color: #eee;
+}
+
+td.occluded {
+  background-color: #555;
+}
